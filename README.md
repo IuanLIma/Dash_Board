@@ -41,4 +41,4 @@ A aplicação permite ao usuário explorar os dados de forma dinâmica, utilizan
 
 ---
 
-## 📂 Estrutura do Projeto
+
